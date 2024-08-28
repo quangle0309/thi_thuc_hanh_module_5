@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productCode": "PROD-0001",
+      "name": "Samsung Galaxy Y",
+      "price": 990000,
+      "categoryId": 1,
+      "quantity": 12,
+      "entryDate": "2024-08-08",
+      "description": "Điện thoại sản xuất bởi Samsung"
+    },
+    {
+      "id": 2,
+      "productCode": "PROD-0002",
+      "name": "Samsung Odyssey 27'",
+      "price": 3990000,
+      "categoryId": 2,
+      "quantity": 5,
+      "entryDate": "2024-07-07",
+      "description": "Màn hình gamming siêu cấp vip pro"
+    },
+    {
+      "id": 3,
+      "productCode": "PROD-0003",
+      "name": "LG ultra HDR 42'",
+      "price": 9990000,
+      "categoryId": 3,
+      "quantity": 3,
+      "entryDate": "2024-08-20",
+      "description": "Tivi 4k xem phim bao đã"
+    },
+    {
+      "id": 4,
+      "productCode": "PROD-0004",
+      "name": "Multi Door NR-DZ601",
+      "price": 12990000,
+      "categoryId": 4,
+      "quantity": 2,
+      "entryDate": "2024-08-19",
+      "description": "Tủ lạnh panasonic tiện lợi cho mọi gia đình"
+    },
+    {
+      "name": "Khoa học",
+      "productCode": "PROD-0011",
+      "price": 99999,
+      "quantity": 12,
+      "entryDate": "2024-08-23",
+      "categoryId": "2",
+      "description": "khong",
+      "id": 6
+    },
+    {
+      "name": "AAA",
+      "productCode": "PROD-0012",
+      "price": 999999,
+      "quantity": 11,
+      "entryDate": "2024-08-21",
+      "categoryId": 1,
+      "description": "khong",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Màn hình"
+    },
+    {
+      "id": 3,
+      "name": "Tivi"
+    },
+    {
+      "id": 4,
+      "name": "Tủ lạnh"
+    }
+  ]
+}
